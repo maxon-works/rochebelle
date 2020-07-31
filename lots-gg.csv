@@ -1,0 +1,15 @@
+Type de bien,Lot,Surface,Etage,Terrasse,Exposition,Parking,Garage/Box,Prix,Prix/m2,Défiscalisation,Plan
+T1,B20,55 m2,R+1,9 m2,Sud,1 place,Garage,180 000 €,3 500 €/m2,30 000 €,<button>Plan</button>
+T1,B21,57 m2,R+2,9 m2,Sud,1 place,Garage,180 000 €,3 500 €/m2,30 000 €,<button>Plan</button>
+T1,B22,57 m2,R+2,9 m2,Sud,1 place,Garage,180 000 €,3 500 €/m2,30 000 €,<button>Plan</button>
+T1,B23,58 m2,R+1,9 m2,Sud,1 place,Garage,180 000 €,3 500 €/m2,30 000 €,<button>Plan</button>
+T1,B24,60 m2,R+1,9 m2,Sud,1 place,Garage,180 000 €,3 500 €/m2,30 000 €,<button>Plan</button>
+T2,B25,65 m2,R+1,11 m2,Sud,1 place,Garage,210 000 €,3 900 €/m2,40 000 €,<button>Plan</button>
+T2,B26,67 m2,R+3,11 m2,Sud,1 place,Garage,210 000 €,3 900 €/m2,40 000 €,<button>Plan</button>
+T2,B27,69 m2,R+3,11 m2,Sud,1 place,Garage,210 000 €,3 900 €/m2,40 000 €,<button>Plan</button>
+T3,B28,72 m2,R+1,12 m2,Sud,2 places,Double garage,260 000 €,4 250 €/m2,45 000 €,<button>Plan</button>
+T3,B29,74 m2,R+1,12 m2,Sud,2 places,Double garage,260 000 €,4 250 €/m2,45 000 €,<button>Plan</button>
+T3,B30,75 m2,R+1,12 m2,Sud,2 places,Double garage,260 000 €,4 250 €/m2,45 000 €,<button>Plan</button>
+T3,B31,76 m2,R+3,12 m2,Sud,2 places,Double garage,260 000 €,4 250 €/m2,45 000 €,<button>Plan</button>
+T4,B32,82 m2,R+3,14 m2,Sud,2 places,Double garage,310 000 €,4 900 €/m2,51 000 €,<button>Plan</button>
+T4,B33,86 m2,R+4,14 m2,Sud,2 places,Double garage,310 000 €,4 900 €/m2,51 000 €,<button>Plan</button>
